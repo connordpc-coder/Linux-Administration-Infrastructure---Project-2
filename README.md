@@ -7,4 +7,4 @@ Building a Linux administration workstation with Bash automation, SSH, networkin
 
 ##Planning
 
-![Planning](Planning-doc/Project%202%20map.md)
+![Planning](Planning-doc/Project2map.md)
