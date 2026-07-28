@@ -5,7 +5,8 @@ Building a Linux administration workstation with Bash automation, SSH, networkin
 
 
 
-## Planning
+## Project Planning
 
+The initial roadmap document created shortly after 
 
 ![Planning](Project2map.md)
