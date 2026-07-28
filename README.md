@@ -5,6 +5,6 @@ Building a Linux administration workstation with Bash automation, SSH, networkin
 
 
 
-##Planning
+## Planning
 
-![Planning](Planning-doc/Project2map.md)
+![Planning](Project2map.md)
