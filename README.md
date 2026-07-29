@@ -14,11 +14,8 @@ Although this will be my main structure for this project, i have made some refle
 
 ---
 
-##  Building a Workstation 
-The first stage of the project building the foundation of vm2's environment. This will include vm configuration, filesystems organization and user setup 
-
-##  Admin Toolkit 
-This stage is almost a reflection on my first project on what i wanted to make easier in terms of productivity, creating shortcuts and automating tasks like applying permissions, health checks and backups
+##  Building a Workstation &  Admin Toolkit 
+The first stage of the project building the foundation of vm2's environment as well as an almost a reflection on the start of my first project and how i can make the early stages into the machine flow much quicker through writing scripts that can automate tasks like making a directory and giving it permissions or creating easy access shortcuts that make work flow feel less binary and more intuitive.
 
 ##  Building Infrastructure
 this stage was the initial premise of this project of building a peer to peer network connection. The main goal is to secure the SSH connection so i can then learn and navigate between the two machines.
