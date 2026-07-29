@@ -14,14 +14,14 @@ Although this will be my main structure for this project, i have made some refle
 
 ---
 
-##  VM2 and Building a Workstation 
+##  Building a Workstation 
 
 ##  Admin Toolkit 
 
-##  Expanding the Infrastructure
+##  Building Infrastructure
 
 ##  Automation & Administration
 
 ## Troubleshooting 
 
-## Reflection
+## Project Reflection
