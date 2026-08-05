@@ -17,11 +17,11 @@ Although this will be my main structure for this project, i have made some refle
 ##  Building a Workstation &  Admin Toolkit 
 The first stage of the project building the foundation of vm2's environment as well as an almost a reflection on the start of my first project and how i can make the early stages into the machine flow much quicker through writing scripts that can automate tasks like making a directory and giving it permissions or creating easy access shortcuts that make work flow feel less binary and more intuitive.
 
-![Building a Workstation &  Admin Toolkit](P2-start)
-![Building a Workstation &  Admin Toolkit](p2-setup)
-![Building a Workstation &  Admin Toolkit](p2-system-script)
-![Building a Workstation &  Admin Toolkit](p2-output-mistake)
-![Building a Workstation &  Admin Toolkit](p2-scorrection)
+![Building a Workstation &  Admin Toolkit](Workstation/P2-start)
+![Building a Workstation &  Admin Toolkit](Workstation/p2-setup)
+![Building a Workstation &  Admin Toolkit](Workstation/p2-system-script)
+![Building a Workstation &  Admin Toolkit](Workstation/p2-output-mistake)
+![Building a Workstation &  Admin Toolkit](workstation/p2-scorrection)
 
 Started setting up the new system, before even adding directories i wanted to immediately start making a script that would get the vm up and running covering updates and upgrades needed. i applied the chmod permission to the script and installed tree not to long after as i prefer it to ls. After running the script i realized i made an error in my script typing with my autoclean command went back to correct it and reran the script to a cleaner output 
 
