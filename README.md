@@ -21,7 +21,7 @@ The first stage of the project building the foundation of vm2's environment as w
 ![Building a Workstation &  Admin Toolkit](Workstation/p2-setup.png)
 ![Building a Workstation &  Admin Toolkit](Workstation/p2-system-script.png)
 ![Building a Workstation &  Admin Toolkit](Workstation/p2-output-mistake.png)
-![Building a Workstation &  Admin Toolkit](workstation/p2-scorrection.png)
+![Building a Workstation &  Admin Toolkit](Workstation/p2-scorrection.png)
 
 Started setting up the new system, before even adding directories i wanted to immediately start making a script that would get the vm up and running covering updates and upgrades needed. i applied the chmod permission to the script and installed tree not to long after as i prefer it to ls. After running the script i realized i made an error in my script typing with my autoclean command went back to correct it and reran the script to a cleaner output 
 
