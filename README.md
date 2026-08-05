@@ -14,7 +14,7 @@ Although this will be my main structure for this project, i have made some refle
 
 ---
 
-##  Building a Workstation &  Admin Toolkit 
+## Building a Workstation &  Admin Toolkit 
 The first stage of the project building the foundation of vm2's environment as well as an almost a reflection on the start of my first project and how i can make the early stages into the machine flow much quicker through writing scripts that can automate tasks like making a directory and giving it permissions or creating easy access shortcuts that make work flow feel less binary and more intuitive.
 
 ![Building a Workstation &  Admin Toolkit](Workstation/P2-start)
