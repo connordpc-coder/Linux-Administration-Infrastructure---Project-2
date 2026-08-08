@@ -27,7 +27,7 @@ Started setting up the new system, before even adding directories i wanted to im
 
 
 
-![Building a Workstation &  Admin Toolkit](Workstation/p2-script.png)
+![Building a Workstation &  Admin Toolkit](Workstation/p2-script2.png)
 ![Building a Workstation &  Admin Toolkit](Workstation/testp2.png)
 ![Building a Workstation &  Admin Toolkit](Workstation/test2.1.png)
 ![Building a Workstation &  Admin Toolkit](Workstation/testp2problem.png)
