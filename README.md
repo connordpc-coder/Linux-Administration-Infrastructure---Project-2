@@ -33,7 +33,8 @@ Started setting up the new system, before even adding directories i wanted to im
 ![Building a Workstation &  Admin Toolkit](Workstation/testp2problem.png)
 ![Building a Workstation &  Admin Toolkit](Workstation/testp2.outcome2.png)
 
-
+Second script built, felt this one answered a lot of questions id previously been looking for in terms of the extents of script writing. learning "$xxxx" as this output place holder has been most valuable because as i said it helps me gauge the extent of where you can go with automation and will make me think during some other tasks if the steps can be cut in half through a script.
+Again it was encouraging to learn but when running the script the first time it didn't work when reading why, i could immediately tell it was due to how i spaced the script. I then went back in corrected it, ran it and checked if the permissions and files applied correctly which it was. Going forward this script alone will now cut a good few hours dedicated to organization down to maybe 1 hour like after this ill move the two scripts into my new toolkit directory then i can make another four or five in the space of a few minutes like infrastructure logging, admin automation, troubleshooting scenarios... with their bases covered just in need of fleshing out.
 
 
 
