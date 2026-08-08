@@ -38,6 +38,16 @@ Again it was encouraging to learn but when running the script the first time it 
 
 
 
+![Building a Workstation &  Admin Toolkit](Workstation/script3.png)
+
+![Building a Workstation &  Admin Toolkit](Workstation/script3.1.png)
+
+![Building a Workstation &  Admin Toolkit](Workstation/script3.2.png)
+
+Used the same methodology for the directories automation and made a script that can create another script make it runnable and nanos me straight into the new file to start script writing  
+
+
+
 ##  Building Infrastructure
 this stage was the initial premise of this project of building a peer to peer network connection. The main goal is to secure the SSH connection so i can then learn and navigate between the two machines.
 
