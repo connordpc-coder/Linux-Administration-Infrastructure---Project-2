@@ -47,7 +47,7 @@ Again it was encouraging to learn but when running the script the first time it 
 Used the same methodology for the directories automation and made a script that can create another script make it runnable and nanos me straight into the new file to start script writing.
 
 
-![Building a Workstation &  Admin Toolkit](Toolkit/NET!.png)
+![Building a Workstation &  Admin Toolkit](Toolkit/NET1.png)
 ![Building a Workstation &  Admin Toolkit](Toolkit/NET2.png)
 
 Built two network based scripts one for info,ip adress, ports etc. Might go back and add the hostname but for now its okay and along with the testing script which like the other scripts ive been making provide the utility of being able to be used repeatedly. in the next part these two scripts will be instrumental with establishing the peer to peer connection and making sure its configured correctly.
