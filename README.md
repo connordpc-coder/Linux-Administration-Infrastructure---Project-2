@@ -44,7 +44,18 @@ Again it was encouraging to learn but when running the script the first time it 
 
 ![Building a Workstation &  Admin Toolkit](Workstation/script3.2.png)
 
-Used the same methodology for the directories automation and made a script that can create another script make it runnable and nanos me straight into the new file to start script writing  
+Used the same methodology for the directories automation and made a script that can create another script make it runnable and nanos me straight into the new file to start script writing.
+
+
+![Building a Workstation &  Admin Toolkit](toolkit/NET!.png)
+![Building a Workstation &  Admin Toolkit](toolkit/NET2.png)
+
+Built two network based scripts one for info,ip adress, ports etc. Might go back and add the hostname but for now its okay and along with the testing script which like the other scripts ive been making provide the utility of being able to be used repeatedly. in the next part these two scripts will be instrumental with establishing the peer to peer connection and making sure its configured correctly.
+
+![Building a Workstation &  Admin Toolkit](toolkit/wrkstatuni.png)
+![Building a Workstation &  Admin Toolkit](toolkit/tkmove.png)
+
+Last stage of making the this toolkit, i feel is to make the directory understandable on a universal basis like a command which meant i had to go into ~/.bashrc and add the path/line into there which now makes there scripts ive made easier to type out not having to use "./"to get it to work 
 
 
 
