@@ -55,7 +55,7 @@ Built two network based scripts one for info,ip adress, ports etc. Might go back
 ![Building a Workstation &  Admin Toolkit](Toolkit/wrkstatuni.png)
 ![Building a Workstation &  Admin Toolkit](Toolkit/tkmove.png)
 
-Last stage of making the this toolkit, i feel is to make the directory understandable on a universal basis like a command which meant i had to go into ~/.bashrc and add the path/line into there which now makes there scripts ive made easier to type out not having to use "./"to get it to work 
+Last stage of making the this toolkit i feel is to make the directory understandable on a universal basis like a command, which meant i had to go into ~/.bashrc and add the path/line into there which now makes there scripts ive made easier to type out not having to use "./" to get it to work which is just nice to be able to do more than anything.
 
 
 
