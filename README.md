@@ -59,7 +59,7 @@ Last stage of making the this toolkit i feel is to make the directory understand
 
 
 
-##  Building Infrastructure
+## Building Infrastructure
 this stage was the initial premise of this project of building a peer to peer network connection. The main goal is to secure the SSH connection so i can then learn and navigate between the two machines.
 
 ![Building Infrastructure](infrastructure/infa1.png)
