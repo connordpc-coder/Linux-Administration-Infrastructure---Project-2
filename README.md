@@ -62,6 +62,12 @@ Last stage of making the this toolkit i feel is to make the directory understand
 ##  Building Infrastructure
 this stage was the initial premise of this project of building a peer to peer network connection. The main goal is to secure the SSH connection so i can then learn and navigate between the two machines.
 
+![Building Infrastructure](infrastructure/infa1.png)
+![Building Infrastructure](infrastructure/infa2.png)
+![Building Infrastructure](infrastructure/infa3.png)
+
+Started getting the part Im most excited for going, originally i got the two VM's up and running used ip addr and my network script expected to be able to pull each ip from each other's but i was quite wrong. Because i was on oracles private network i had to make an adaption in each of the VM's network settings to make a host only connection between the pair, then i went back into the vm found the new line in ip addr and pinged each ip's on the others which worked great. Think this was a great first start, having to go outside of the vms to impact something in my machines felt odd as always feel like if you want something to work in Linux you have to do it yourself from the ground up but its good to know for the future.
+
 ##  Automation & Administration
 this stage focuses on using that toolkit to manage the completed environment through automation. reducing that manual admin work while maintaining a consistent workflow.
 
