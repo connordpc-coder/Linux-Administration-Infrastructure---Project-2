@@ -68,7 +68,7 @@ this stage was the initial premise of this project of building a peer to peer ne
 
 Started getting the part Im most excited for going, originally i got the two VM's up and running used ip addr and my network script expected to be able to pull each ip from each other's but i was quite wrong. Because i was on oracles private network i had to make an adaption in each of the VM's network settings to make a host only connection between the pair, then i went back into the vm found the new line in ip addr and pinged each ip's on the others which worked great. Think this was a great first start, having to go outside of the vms to impact something in my machines felt odd as always feel like if you want something to work in Linux you have to do it yourself from the ground up but its good to know for the future.
 
-![Building Infrastructure](Infrastructure/key1.png)
+
 ![Building Infrastructure](Infrastructure/key2.png)
 ![Building Infrastructure](Infrastructure/key3.png)
 ![Building Infrastructure](Infrastructure/key4.png)
@@ -76,6 +76,13 @@ Started getting the part Im most excited for going, originally i got the two VM'
 
 After establishing that the VMs were connected, Ive now moved onto some admin basics of generating keys make that host and client connection with my vm from my last project and being able to log in to my first projects vm through this projects vm which is going to mainly the be the administrator of the two. From there i was able to get the SSH going being able to access vm1 being the @linuxpro user learned how come in and out of the sessions and then i wanted to do a light exercise of securely copying my toolkit Ive made this project into vm1 which worked great, Ive not done the same as i did in my other vm like creating a path and editing bashrc to make it work better, it was just a proof of concept.Overall  really enjoyed doing this its circling back to the theory ideas i learned very early on before project building and using them in a real and constructive way.
 
+![Building Infrastructure](Infrastructure/EA.png)
+![Building Infrastructure](Infrastructure/EA2.png)
+![Building Infrastructure](Infrastructure/EA3.png)
+![Building Infrastructure](Infrastructure/EA4.png)
+![Building Infrastructure](Infrastructure/EA5.png)
+
+Did more information relaying from each machine and found and error when i transferred my toolkit over to VM1 and it duplicated the whole directory with the name of VM1's user. No harm came of it though i just removed it and also made a basic easy access to save me from retyping the ssh command which ill now be doing quite regularly gas an okay purpose for now but I'll probably repurpose it later when it comes to fully automating peer to peer tasks.
 ##  Automation & Administration
 this stage focuses on using that toolkit to manage the completed environment through automation. reducing that manual admin work while maintaining a consistent workflow.
 
