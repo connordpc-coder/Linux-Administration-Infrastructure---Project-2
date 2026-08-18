@@ -83,6 +83,13 @@ After establishing that the VMs were connected, Ive now moved onto some admin ba
 ![Building Infrastructure](Infrastructure/EA5.png)
 
 Did more information relaying from each machine and found and error when i transferred my toolkit over to VM1 and it duplicated the whole directory with the name of VM1's user. No harm came of it though i just removed it and also made a basic easy access to save me from retyping the ssh command which ill now be doing quite regularly gas an okay purpose for now but I'll probably repurpose it later when it comes to fully automating peer to peer tasks. As for relaying i used the ssh command to relay some commands and then scripts from my toolkit that i just moved over and they both worked great and then i went into VM1 and used ssh to my current project VM be reassure the connect works both ways.
+
+### Firewall basics
+
+![Building Infrastructure](Infrastructure/FW1.png)
+![Building Infrastructure](Infrastructure/FW2.png)
+![Building Infrastructure](Infrastructure/FW3.png)
+
 ##  Automation & Administration
 this stage focuses on using that toolkit to manage the completed environment through automation. reducing that manual admin work while maintaining a consistent workflow.
 
