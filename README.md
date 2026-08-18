@@ -1,5 +1,7 @@
 # Linux-Administration-Infrastructure-Project-2
 Building a Linux administration workstation with Bash automation, SSH, networking and infrastructure management across multiple virtual machines.
+VM1= last projects VM - client 
+VM2= this projects VM - admin
 
 ---
 
@@ -84,11 +86,16 @@ After establishing that the VMs were connected, Ive now moved onto some admin ba
 
 Did more information relaying from each machine and found and error when i transferred my toolkit over to VM1 and it duplicated the whole directory with the name of VM1's user. No harm came of it though i just removed it and also made a basic easy access to save me from retyping the ssh command which ill now be doing quite regularly gas an okay purpose for now but I'll probably repurpose it later when it comes to fully automating peer to peer tasks. As for relaying i used the ssh command to relay some commands and then scripts from my toolkit that i just moved over and they both worked great and then i went into VM1 and used ssh to my current project VM be reassure the connect works both ways.
 
+
+tried to make a script wrapper to be able to easily access any script i wanted in my toolkit directory in VM1, wasn't as easy as i thought it would be as the ssh and the path i created in VM1 interact weirdly do im pushing it back to the automation stage or troubleshooting.
+
 ### Firewall basics
 
 ![Building Infrastructure](Infrastructure/FW1.png)
 ![Building Infrastructure](Infrastructure/FW2.png)
 ![Building Infrastructure](Infrastructure/FW3.png)
+
+Started making firewall rules while making sure the admins (current VM) channel remained available. Got a basic understanding of it how to add and remove rules and read it in general 
 
 ##  Automation & Administration
 this stage focuses on using that toolkit to manage the completed environment through automation. reducing that manual admin work while maintaining a consistent workflow.
