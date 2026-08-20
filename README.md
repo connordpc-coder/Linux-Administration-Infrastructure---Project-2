@@ -89,13 +89,22 @@ Did more information relaying from each machine and found and error when i trans
 
 tried to make a script wrapper to be able to easily access any script i wanted in my toolkit directory in VM1, wasn't as easy as i thought it would be as the ssh and the path i created in VM1 interact weirdly do im pushing it back to the automation stage or troubleshooting.
 
-### Firewall basics
+
 
 ![Building Infrastructure](Infrastructure/FW1.png)
 ![Building Infrastructure](Infrastructure/FW2.png)
 ![Building Infrastructure](Infrastructure/FW3.png)
 
 Started making firewall rules while making sure the admins (current VM) channel remained available. Got a basic understanding of it how to add and remove rules and read it in general 
+
+![Building Infrastructure](Infrastructure/H1.png)
+![Building Infrastructure](Infrastructure/H2.png)
+![Building Infrastructure](Infrastructure/H3.png)
+![Building Infrastructure](Infrastructure/H4.png)
+
+Getting comfortable with SSH and being able to investigate user privileges. With the user privileges it was just a quick test to get a general understanding before moving into the next stage of administration and automation were it will be much more prevalent when configuring what and what not a user can't do. As for the SSH configuration ive made it simple to access VM1 by making a small script that allows the machine to understand what i mean when i write vm1 than the user and ip when connecting to SSH and building wrapper scripts like what id been struggling with recently.
+
+
 
 ##  Automation & Administration
 this stage focuses on using that toolkit to manage the completed environment through automation. reducing that manual admin work while maintaining a consistent workflow.
