@@ -104,6 +104,10 @@ Started making firewall rules while making sure the admins (current VM) channel 
 
 Getting comfortable with SSH and being able to investigate user privileges. With the user privileges it was just a quick test to get a general understanding before moving into the next stage of administration and automation were it will be much more prevalent when configuring what and what not a user can't do. As for the SSH configuration ive made it simple to access VM1 by making a small script that allows the machine to understand what i mean when i write vm1 than the user and ip when connecting to SSH and building wrapper scripts like what id been struggling with recently.
 
+![Building Infrastructure](Infrastructure/L1.png)
+![Building Infrastructure](Infrastructure/L2.png)
+
+just a basic demonstration of what logging in my ssh now looks like, i recall in my first project understanding the logs function because it was similar to investigative work i do at work anyway but when id actually see activity that id really be able to understand it a bit better which i can say i do now being able to pull login failure and filter then to understand and be able to investigate in Linux. 
 
 
 ##  Automation & Administration
