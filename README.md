@@ -113,6 +113,12 @@ just a basic demonstration of what logging in my ssh now looks like, i recall in
 ##  Automation & Administration
 this stage focuses on using that toolkit to manage the completed environment through automation. reducing that manual admin work while maintaining a consistent workflow.
 
+![Automation & Administration](Automation/scroutput.png)
+![Automation & Administration](Automation/scroutput3.png)
+![Automation & Administration](Automation/scroutput2.png)
+
+building a new administrative script, starting to use things like pipes to filter and control what i want outputted. the process was trail and error using ideas i may have used before but not used together, so i took a good few times correcting each line the script couldn't understand until i got updating status to give that one line direct answer and it felt rewarding to finally get exact output i wanted and its definitely something to learn from going forward with my script outputs. Going forward a majority of this stages work is going to be and expansion on ideas from my toolkit introduction but again working on honing ideas down to make them easily readable and manageable in a problem solving situation 
+
 ## Troubleshooting 
 creating real world scenarios that reflect common infrastructure and Linux administration problems.
 
